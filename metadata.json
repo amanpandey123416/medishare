@@ -1,0 +1,6 @@
+{
+  "name": "MediShare — Share Care, Save Lives",
+  "description": "Healthcare social-impact platform connecting communities with medical equipment lending, blood donor discovery, assistance requests, safe medicine disposal guides, and verified healthcare facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
